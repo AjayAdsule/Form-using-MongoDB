@@ -1,0 +1,5 @@
+creating basic form project 
+requirement 
+create ejs for dynamic change
+create static for publicly available
+ 
